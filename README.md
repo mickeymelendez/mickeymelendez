@@ -1,5 +1,3 @@
-## ![Typing "Hey there, I'm Mickey"](your-typing-gif.gif)
-
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning Advanced Python and Web Accessibility
 - 💻 Passionate about building skills in Software Development and Networking
@@ -26,7 +24,9 @@
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/mickeymelendez](https://www.linkedin.com/in/miguel-guzman-melendez-9523741a8/))
+### 🤝 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-guzman-melendez-9523741a8)
+
 
 
