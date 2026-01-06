@@ -21,6 +21,9 @@
 #### Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![ANDI Accessibility Tool](https://img.shields.io/badge/ANDI-Accessibility-blue?logo=accessibility&style=flat-square)](https://www.ssa.gov/technology/andi/help/install.html)
+[![NVDA Screen Reader](https://img.shields.io/badge/NVDA-Accessible-orange?logo=accessibility&style=flat-square)](https://www.nvaccess.org/)
+
 
 ---
 
