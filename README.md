@@ -1,3 +1,5 @@
+<img width="1536" height="471" alt="1023b987-5b8d-40c9-ae8d-533d6773af1f" src="https://github.com/user-attachments/assets/f1c0d4cf-0566-4f73-8a4f-61d6e836048f" />
+
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning Advanced Python and Web Accessibility
 - 💻 Passionate about building skills in Software Development and Networking
